@@ -1,4 +1,5 @@
 This is a simple Laravel REST API built as part of an internship test. The application manages a list of products using Laravel 10+ and follows the given requirements strictly, without any external packages.
+
 ✅ Features
 CRUD operations for Products
 Validation on product creation and update
@@ -8,7 +9,6 @@ Timestamps support (created_at, updated_at)
 
 🚀 Bonus Features
 Pagination support for listing products
-
 Filter products by minimum stock using query parameter (min_stock)
 
 📦 API Endpoints
